@@ -33,7 +33,7 @@ describe('View Company Mood Feature', () => {
     //  user clicked following
     await $('(//android.widget.Button[@content-desc="￼ Following"])[1]').click();
 
-    // Then user should be able to unfollow people.
+    // Then user should be able to unfollow people
     await expect($('(//android.widget.Button[@content-desc="￼ Following"])').toEqual(4));
   });
 
