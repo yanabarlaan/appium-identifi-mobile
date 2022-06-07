@@ -11,6 +11,7 @@
   "dependencies": {
     "@wdio/cli": "^7.19.7",
     "appium": "^2.0.0-beta.35",
+    "dotenv": "^16.0.1",
     "i": "^0.3.7"
   },
   "devDependencies": {
