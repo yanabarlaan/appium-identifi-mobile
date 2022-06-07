@@ -15,7 +15,7 @@ Run appium doctor command to make sure all pre-requisite are installed
 appium-doctor --android
 ```
 
-### Run Test with a browser
+### Run Test with browserstack
 To run a test from a browserstack
 add .env file containing your browserstack user and key
 ```sh
