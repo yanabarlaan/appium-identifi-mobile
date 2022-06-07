@@ -24,8 +24,8 @@ config.specs = [
 config.capabilities = [
   {
     platformName: 'Android',
-    'appium:platformVersion': "10.0",
-    'appium:deviceName': 'Google Pixel 3',
+    'appium:platformVersion': "12.0",
+    'appium:deviceName': 'Google Pixel 5',
     'appium:automationName': 'UIAutomator2',
     'appium:app': "bs://9966fbcd19371acc9e5028b9a431d7aeefb0674d",
     'appium:autoGrantPermissions': true
