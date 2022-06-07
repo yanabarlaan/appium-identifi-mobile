@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "types": [
+          "node",
+          "webdriverio/async",
+          "@wdio/cucumber-framework"
+      ],
+      "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
