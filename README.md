@@ -10,10 +10,16 @@
  - WebdriverIO
 
 ### Installation
-Run appium doctor command to make sure all pre-requisite are installed
-```sh
-appium-doctor --android
-```
+- Install packages
+   ```sh
+   npm install
+   ```
+- Setup emulator
+
+- Run appium doctor command to make sure all pre-requisite are installed
+   ```sh
+   appium-doctor --android
+   ```
 
 ### Run Test with browserstack
 To run a test from a browserstack
